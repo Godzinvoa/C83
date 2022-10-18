@@ -1,0 +1,11 @@
+.bode{
+    background-image: url("BANANAFONE.jpg");
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+#cnvs{
+    border: width 10px;
+    border-style: ridge;
+    background-color: white;
+}
